@@ -1,0 +1,2 @@
+<?php $mysql->query("INSERT INTO `zet_order_comments`(`order_id`,`date`,`text`) VALUES ('".$_POST['order_id']."', CURDATE(), '".$mysql->escape($_POST['text'])."')"); ?>
+<p class="admin_order_date" style="margin-bottom: 5px;"><span><?php echo date('Y-m-d'); ?></span> <?php echo $_POST['text']; ?></p>

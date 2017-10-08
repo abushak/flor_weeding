@@ -1,0 +1,1 @@
+<?php include ROW.$_POST['name'].'.tpl'; ?>

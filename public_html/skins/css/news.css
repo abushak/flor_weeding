@@ -1,0 +1,11 @@
+@import url(about.css);
+.social {
+  color: #aaaaaa;
+  text-align: center;
+  line-height: 26px;
+  vertical-align: middle;
+  padding: 10px 0 20px; }
+  .social > img {
+    vertical-align: bottom; }
+
+/*# sourceMappingURL=news.css.map */

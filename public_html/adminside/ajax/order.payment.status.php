@@ -1,0 +1,1 @@
+<?php $mysql->query("UPDATE `zet_orders` SET `payment_status`='".(int)$_POST["status"]."' WHERE `id`='".(int)$_POST["order_id"]."'");

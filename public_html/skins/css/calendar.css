@@ -1,0 +1,439 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+    font-family: geometria; /* Имя шрифта */
+    src: url(skins/fonts/geometria.otf); /* Путь к файлу со шрифтом */
+}
+
+.table-row {
+	width: 100%;
+	    float: none;
+    display: table;
+    margin: 4% auto;
+	font-family: geometria;
+}
+
+.centr {
+	margin: 10px auto 0;
+    width: 900px;
+}
+
+.img-month {
+	width: 150px;
+	float: left;
+	text-align: center;
+}
+
+.img-month img {
+	width: 90px;
+}
+
+
+.week-block {
+	width: 35px;
+	float: left;
+	border-right: 1px solid #d3d3d3;
+	background: #c3c3c3;
+	color: #fff;
+}
+
+.week-empty {
+	text-align: center;
+	line-height: 52px;
+}
+
+.week {
+	text-align: center;
+	font-size: 24px;
+	line-height: 77px;
+}
+
+.month-block {
+	width: 560px;
+	float: left;
+}
+
+.day-row , .week-day-row {
+	width: 100%;
+	float: left;
+
+}
+
+.day-row > div {
+border-left: none;
+border-top:  none;
+}
+
+.day-row > div , .week-day-row > div {
+border-left: none;
+}
+
+.week-day-row div:first-child , .day-row div:first-child {
+	/*border-left: none;*/
+}
+
+
+.day , .week-day {
+	width: 14%;
+	float: left;
+	border: 1px solid #d3d3d3;
+	text-align: center;
+	max-width: 80px;
+}
+
+.week-day {
+	color: #cf54a0;
+	font-size: 24px;
+	padding: 10px 0;
+}
+
+.day {
+	color: #c2c2c2;
+	font-size: 60px;
+}
+
+.day.active {
+	color: #7f7f7f;
+}
+
+.day.select {
+	color: #fff;
+	background: #c2c2c2;
+}
+
+.day.event {
+	color: #d89aa6;
+}
+
+.month-name {
+	width: 100%;
+	text-align: center;
+	color: #cf54a0;
+	font-size: 48px;
+	text-transform: uppercase;
+}
+
+.year {
+	width: 100%;
+	text-align: center;
+	color: #c2c2c2;
+	font-size: 48px;
+	float: left;
+}
+
+.year * {
+	display: inline-block;
+}
+
+.year a {
+	text-decoration: none;
+	color: #c2c2c2;
+	padding: 0 10px;
+}
+.year button {
+        text-decoration: none;
+	color: #c2c2c2;
+	padding: 0 10px;
+}
+
+.popup {
+    position: absolute;
+    margin: 76px;
+    width: 400px;
+    background: #fff;
+    border: 1px solid #d3d3d3;
+    z-index: 999;
+}
+
+.popup h2 {
+	text-align: center;
+	color: #444;
+	font-size: 30px;
+	margin: 5px 0 30px;
+}
+
+.popup {
+	text-align: center;
+}
+
+.popup p {
+	color: #929292;
+	font-size: 16px;
+}
+
+.popup form input {
+	color: #ee4e66;
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid #ee4e66;
+    width: 82%;
+}
+
+.bgp {
+    width: 553px;
+    height: 437px;
+    background: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    z-index: 99;
+}
+
+.butns {
+	text-align: center;
+	padding: 25px 0 30px;
+}
+
+.butns button {
+	padding: 10px 20px;
+	width: 40%;
+	border:none;
+	background: linear-gradient(to top, #f75233, #fb5382);
+	color: #fff;
+	cursor: pointer;
+	font-size: 18px;
+}
+
+#popup {
+	display: none;
+}
+#popup2 {
+	display:none;
+}
+
+.edit {
+	background: #eacbde!important;
+	color: #fff!important;
+}
+
+.cross {
+	text-align: right;
+    padding: 5px 8px;
+    position: absolute;
+    right: 0;
+    background: #F63F64;
+    border-radius: 60px;
+    color: #fff;
+    margin: 6px;
+    cursor: pointer;
+    border: 1px solid #fff;
+}
+
+.cross:hover {
+	border: 1px solid #c3c3c3;
+}
+
+#popup button {
+	padding: 5px 10px;
+	margin-bottom: 5px;
+	width: 90%;
+	border:none;
+	background: linear-gradient(to top, #f75233, #fb5382);
+	color: #fff;
+	cursor: pointer;
+	font-size: 18px;
+	outline: none;
+}
+
+
+#popup .pink-button {
+	padding: 10px 20px;
+	width: 40%;
+	border:none;
+	background: linear-gradient(to top, #f75233, #fb5382);
+	color: #fff;
+	cursor: pointer;
+	font-size: 18px;
+}
+
+.left-check , .right-check {
+	text-align: left;
+	width: 50%;
+	float: left;
+}
+
+.left-check div p:nth-child(1) {
+	width: 90% !important;
+}
+.left-check input , .right-check input {
+	width: 15%;
+}
+
+.row {
+	width: 100%;
+	float: right;
+	text-align: left;
+}
+
+.left-check p , .left-check input , .right-check p , .right-check input {
+	float: right;
+}
+
+.left-check p , .right-check p {
+	width: 75%;
+	font-size: 22px;
+    padding: 0 0 15px;
+}
+
+
+/****************LABELS*******************/
+
+.checkbox label {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    padding-left: 55px;
+    margin-right: 15px;
+    font-size: 13px;
+    font-size: 20px;
+    color: #929292;
+}
+
+.checkbox input[type=checkbox] {
+	display: none;
+}
+
+.checkbox label:before {
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 0 0 20px;
+    position: absolute;
+    left: 0px;
+    bottom: 1px;
+    background: linear-gradient(to top, #eceded, #fcfdfc);
+	border: 1px solid #dbdbdb;
+}
+
+.checkbox label {
+	margin: 0 0 10px 0px;
+    width: 100%;
+}
+.checkbox label:before {
+    border-radius: 3px;
+}
+
+input[type=checkbox]:checked + label:before {
+    content: "\2713";
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .2);
+    font-size: 35px;
+    color: #F63F64;
+    text-align: center;
+    line-height: 20px;
+}
+#popup2 button {
+	padding: 5px 10px;
+	margin-bottom: 5px;
+	width: 90%;
+	border:none;
+	background: linear-gradient(to top, #f75233, #fb5382);
+	color: #fff;
+	cursor: pointer;
+	font-size: 18px;
+	outline: none;
+}
+
+
+#popup2 .pink-button {
+	padding: 10px 20px;
+	width: 40%;
+	border:none;
+	background: linear-gradient(to top, #f75233, #fb5382);
+	color: #fff;
+	cursor: pointer;
+	font-size: 18px;
+}
+.popup2 {
+    position: absolute;
+    margin: 76px;
+    width: 400px;
+    background: #fff;
+    border: 1px solid #d3d3d3;
+    z-index: 999;
+}
+
+.popup2 h2 {
+	text-align: center;
+	color: #d598be;
+	font-size: 30px;
+	margin: 5px 0 30px;
+}
+
+.popup2 {
+	text-align: center;
+}
+
+.popup2 p {
+	color: #929292;
+	font-size: 16px;
+}
+
+.popup2 form input {
+	color: #ee4e66;
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid #ee4e66;
+    width: 82%;
+}
+
+#popup2 h3 {
+	margin-top: -20px;
+    color: #F63F64;
+}
+
+#popup2 .lip , #popup .rip {
+	width: 50%;
+	float: left;
+}
+
+.lip > img {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.pricep {
+	font-size: 32px!important;
+    font-weight: 600;
+    color: #F63F64!important;
+    padding: 10px 0;
+}
+
+.sizep b {
+	background: #F63F64;
+	color: white;
+	padding: 4px 8px;
+	cursor: pointer;
+}
+
+#popup2 table {
+	width: 100%;
+}
+
+#popup2 table tr:first-child {
+	color: #fff;
+	background: #F63F64;
+	font-size: 16px;
+}
+
+#popup2 table tr:first-child td:nth-child(3) {
+	color: #fff !important;
+	font-weight: 100 !important;
+}
+
+
+#popup2 table td {
+	padding: 10px 0;
+}
+
+
+#popup2 td:nth-child(3) {
+	font-weight: 800;
+	color: #F63F64;
+	font-size: 18px;
+}

@@ -1,0 +1,127 @@
+.reviews {
+  padding-top: 66px;
+  position: relative;
+  min-height: 353px;
+  box-sizing: border-box; }
+  .reviews > .bg {
+    height: 353px;
+    position: absolute;
+    background: url(../image/flowers.jpg) 50% 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    top: 0; }
+  .reviews .content .review {
+    border: 1px solid #e7e8e9;
+    padding: 9px 22px;
+    font-size: 14px;
+    position: relative;
+    margin: 17px 0 30px; }
+    .reviews .content .review:after {
+      content: url(../image/vidguky-Recovered.png);
+      position: absolute;
+      bottom: -20px;
+      left: 54px; }
+    .reviews .content .review > div > span {
+      line-height: 19px;
+      display: inline-block;
+      color: #7c6574;
+      padding-right: 6px; }
+      .reviews .content .review > div > span + span {
+        padding-left: 6px;
+        border-left: 1px solid #e7e8e9; }
+    .reviews .content .review > p {
+      color: #4c4d51;
+      margin: 10px 0; }
+  .reviews > .review {
+    padding-bottom: 50px; }
+    .reviews > .review > div {
+      margin: 0 93px 0;
+      background: #ffffff;
+      box-shadow: 0 5px 27px rgba(63, 64, 69, 0.3);
+      padding: 50px 70px 60px; }
+      .reviews > .review > div:after {
+        content: "";
+        clear: both;
+        display: block; }
+      .reviews > .review > div > div {
+        width: 50%;
+        box-sizing: border-box; }
+        .reviews > .review > div > div.left {
+          padding-right: 70px;
+          float: left; }
+          .reviews > .review > div > div.left > .img {
+            background: url(../image/nasajnika.jpg);
+            width: 135px;
+            height: 135px;
+            margin: 0 auto 30px;
+            border-radius: 50%; }
+          .reviews > .review > div > div.left .name, .reviews > .review > div > div.left .nac, .reviews > .review > div > div.left p {
+            display: block;
+            font-size: 14px;
+            text-align: center;
+            color: #3f4045; }
+          .reviews > .review > div > div.left .name {
+            font-size: 16px; }
+          .reviews > .review > div > div.left p {
+            margin-top: 35px;
+            text-align: justify; }
+        .reviews > .review > div > div.right {
+          margin-left: 50%;
+          padding-top: 32px;
+          padding-left: 13px; }
+          .reviews > .review > div > div.right > form.fields > h4 {
+            font-size: 18px;
+            font-weight: normal;
+            color: #4c4d51;
+            margin: 0 0 25px; }
+          .reviews > .review > div > div.right > form.fields > textarea, .reviews > .review > div > div.right > form.fields > input {
+            box-sizing: border-box;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.64);
+            border: 1px solid #b4aebe;
+            display: block;
+            margin-bottom: 26px; }
+          .reviews > .review > div > div.right > form.fields > textarea {
+            resize: none;
+            height: 68px; }
+          .reviews > .review > div > div.right > form.fields > input {
+            height: 28px; }
+          .reviews > .review > div > div.right > form.fields > button {
+            display: inline-block;
+            width: 126px;
+            height: 39px;
+            line-height: 39px;
+            text-align: center;
+            color: white;
+            margin: 0;
+            padding: 0;
+            border-radius: 3px;
+            border: none;
+            background-color: #ad91b0;
+            background-image: -webkit-linear-gradient(#ad91b0, #7c6574);
+            background-image: linear-gradient(#ad91b0, #7c6574); }
+            .reviews > .review > div > div.right > form.fields > button:hover {
+              background-color: #cfb5d1;
+              background-image: -webkit-linear-gradient(#cfb5d1, #aa93a2);
+              background-image: linear-gradient(#cfb5d1, #aa93a2); }
+  .reviews > .content {
+    padding-left: 93px;
+    padding-right: 93px; }
+    .reviews > .content > div > h2 {
+      margin-bottom: 30px; }
+    .reviews > .content > div > a {
+      display: block;
+      margin: 0 auto;
+      text-decoration: none;
+      width: 150px;
+      box-sizing: border-box;
+      border: 1px solid #cccccc;
+      height: 39px;
+      text-align: center;
+      padding: 9px; }
+      .reviews > .content > div > a > span {
+        color: #968490;
+        border-bottom: 1px dotted #968490; }
+
+/*# sourceMappingURL=reviews.css.map */

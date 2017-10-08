@@ -1,0 +1,54 @@
+#nav > div > div > div.lang > ul:hover {
+    height: 26px;
+}
+
+.done > div > div.lp a {
+    cursor: pointer;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 45px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.done > div > div.lp {
+    margin: 0 auto;
+    float: none;
+    width: 180px;
+    border-radius: 3px;
+    /*background-color: #e7e1e3;
+    background-image: -webkit-linear-gradient(#e7e1e3, #bcb5b3);
+    background-image: linear-gradient(#e7e1e3, #bcb5b3);*/
+    background-color: #00bc65;
+    background-image: -webkit-linear-gradient(#00bc65, #008f48);
+    background-image: linear-gradient(#00bc65, #008f48);
+}
+
+.order > input#help_3:checked ~ .order_params .help_3 {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+.seotext p, .seotext ul, .content p, .content ul {
+    color: #666666;
+}
+
+.catalog > div.items > div.item.hit > div:after {
+    content: "ТОП";
+}
+
+.product > div div.panel > div.base > div.top > div.desc > div > h1 {
+    font-size: 25px;
+    font-weight: normal;
+    margin: 0 0 5px;
+    line-height: 100%;
+    padding: 0 25px;
+}
+
+.product > div div.panel > div > div.top h1 > a {
+    text-decoration: none;
+    border-bottom: 1px solid #ccc8d1;
+    color: inherit;
+}

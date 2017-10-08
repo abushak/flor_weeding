@@ -1,0 +1,1 @@
+<li><a href="#" class="rating_unselect unselectable"><?php echo $i; ?></a></li> 

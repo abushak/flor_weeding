@@ -1,0 +1,1 @@
+<a href="#" class="admin_lang<?php echo $class; ?>"><?php echo $lang_row["name"]; ?></a>

@@ -1,0 +1,110 @@
+.footer {
+    clear: both;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.footer .wbody {
+    background-image: none;
+    height: auto;
+    text-align: center;
+}
+
+.p404 .content h2 {
+    text-align: center;
+    color: #e45a7e;
+}
+
+.p404 .content p, .p404 .content ul {
+    text-align: center;
+    font-size: 14px;
+    color: #717276;
+}
+
+.p404 .content ul li {
+    list-style: none;
+}
+
+.p404 .content .img {
+    background: url(../image/404.png) center no-repeat;
+    height: 350px;
+    margin: 35px 0 35px 0;
+}
+
+.p404 .content p.mrg {
+    display: block;
+    margin-top: 50px;
+}
+
+.p404 .content a {
+    color: #7c6574;
+    text-decoration: none;
+    border-bottom: 1px solid #d2c2cc;
+}
+
+.footer .wbody .copy {
+    float: left;
+    color: #b2b2b2;
+    font-size: 12px;
+}
+
+.footer .wbody .links #fb {
+    background-image: url(../image/soc_fb.png);
+}
+
+.footer .wbody .links #vk {
+    background-image: url(../image/soc_vk.png);
+}
+
+.copy {
+    margin-top: 10px; 
+    float: left;
+}
+
+.links {
+    display:inline-block;
+}
+
+.links {
+    margin-left: -130px;
+}
+
+.links a {
+    margin: 5px 10px 0;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    display: inline-block;
+    background: url(../image/soc_xz.png) no-repeat 50% 50%;
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    transform: scale(0.9);
+    -webkit-transition: 100ms linear;
+    -moz-transition: 100ms linear;
+    transition: 100ms linear;
+}
+
+.links a:hover {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+}
+
+#z > a {
+    background: url("../image/z.jpg") no-repeat;
+    display: block;
+    width: 33px;
+    height: 33px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+#z {
+    float: right;
+    height: auto;
+}

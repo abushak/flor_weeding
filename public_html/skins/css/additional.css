@@ -1,0 +1,108 @@
+.additional {
+  overflow: hidden;
+  width: 988px;
+  max-width: 1225px;
+  margin: 0 auto; }
+  .additional > h2 {
+    font-size: 27px;
+    font-weight: normal;
+    margin: 32px 0;
+    text-align: center; }
+  .additional > a {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: block;
+    background: url("../image/adit.png") no-repeat 50% 50%;
+    width: 17px;
+    height: 36px;
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 88.5px;
+    cursor: pointer;
+    -webkit-transition: 100ms;
+    -moz-transition: 100ms;
+    transition: 100ms; }
+    .additional > a[rel="prev"] {
+      float: left; }
+    .additional > a[rel="next"] {
+      float: right;
+      -webkit-transform: scale(-1, 1);
+      -moz-transform: scale(-1, 1);
+      -ms-transform: scale(-1, 1);
+      -o-transform: scale(-1, 1);
+      transform: scale(-1, 1); }
+  .additional:hover > a {
+    opacity: .5;
+    visibility: visible; }
+    .additional:hover > a:hover {
+      opacity: 1; }
+  .additional > div {
+    margin: 0 auto 15px;
+    overflow: hidden;
+    width: 948px;
+    height: 330px;
+    position: relative; }
+    .additional > div > div {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: inline-block;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      -webkit-transition: left 250ms linear;
+      -moz-transition: left 250ms linear;
+      transition: left 250ms linear; }
+      .additional > div > div > div.item {
+        width: 213px;
+        height: 330px;
+        padding: 0 12px;
+        float: left; }
+        .additional > div > div > div.item > div.img {
+          height: 213px;
+          box-sizing: border-box;
+          border: 1px solid #e7e8ec;
+          background: no-repeat 50% 50%;
+          position: relative; }
+          .additional > div > div > div.item > div.img > a {
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            position: absolute;
+            display: block;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            -webkit-transition: 100ms;
+            -moz-transition: 100ms;
+            transition: 100ms;
+            background: url(../image/addit_plus.png) 50% 50% no-repeat; }
+            .additional > div > div > div.item > div.img > a:hover {
+              opacity: 1; }
+        .additional > div > div > div.item.incart > div.img > a {
+          background-image: url(../image/addit_incart.png);
+          opacity: 1; }
+        .additional > div > div > div.item > span.caption {
+          font-size: 14px;
+          color: #7c6574;
+          text-decoration: none;
+          display: inline-block;
+          margin: 15px 0; }
+        .additional > div > div > div.item > div.hr {
+          width: 60px;
+          border-top: 1px solid #e7e8e9;
+          margin-left: 3px; }
+        .additional > div > div > div.item > span.price {
+          display: block;
+          margin-top: 12px;
+          color: #f7425f;
+          font-size: 18px; }
+  @media screen and (min-width: 1250px) {
+    .additional {
+      width: 1225px; }
+      .additional > div {
+        width: 1185px; } }
+
+/*# sourceMappingURL=additional.css.map */

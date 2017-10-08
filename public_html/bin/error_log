@@ -1,0 +1,200 @@
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:20) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:32:27 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:20) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:33:08 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:20) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:34:59 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:20) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:39 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:20) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Notice:  Error: Could not connect to database biserok_main in /home/biserok/public_html/class/mysql.php on line 20
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:48:49 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 11:51:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:51:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:51:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:51:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:04 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:04 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:04 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:04 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:52:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:55:32 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:15) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:55:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:44 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:15) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:55:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:52 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:15) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:55:52 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:52 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:52 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:52 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:58 Europe/Kiev] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biserok/public_html/class/mysql.php:15) in /home/biserok/public_html/functions/functions.global.php on line 43
+[03-Nov-2014 11:55:58 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:58 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:58 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:55:58 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 64
+[03-Nov-2014 11:56:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:56:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:56:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:56:44 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:07 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 11:58:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:37 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:01:41 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 63
+[03-Nov-2014 12:04:57 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:04:57 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:04:57 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:04:57 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:06:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:06:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:06:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:06:00 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:07:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:07:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:07:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:07:32 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 61
+[03-Nov-2014 12:09:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:09:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:09:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:09:05 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:11:38 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:11:38 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:11:38 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:11:38 Europe/Kiev] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/biserok/public_html/class/mysql.php on line 34
+[03-Nov-2014 12:24:18 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/image.box.tpl on line 6
+[03-Nov-2014 12:24:18 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/option.details.tpl on line 26
+[03-Nov-2014 13:47:09 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/image.box.tpl on line 6
+[03-Nov-2014 13:47:09 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/option.details.tpl on line 26
+[03-Nov-2014 13:54:05 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/image.box.tpl on line 6
+[03-Nov-2014 13:54:05 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/option.details.tpl on line 26
+[03-Nov-2014 14:03:29 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/image.box.tpl on line 6
+[03-Nov-2014 14:03:29 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/option.details.tpl on line 26
+[03-Nov-2014 14:03:32 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/image.box.tpl on line 6
+[03-Nov-2014 14:03:32 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/option.details.tpl on line 26
+[14-Nov-2014 14:45:48 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/image.box.tpl on line 6
+[14-Nov-2014 14:45:52 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/biserok/public_html/skins/tpl/preview/image.box.tpl on line 6
+[14-Nov-2014 16:10:46 Europe/Kiev] PHP Fatal error:  Using $this when not in object context in /home/biserok/public_html/ajax/one.click.order.php on line 7
+[15-Dec-2014 12:13:41 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/ajax/product.fast.preview.php on line 37
+[17-Dec-2014 13:06:27 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 34
+[17-Dec-2014 13:06:31 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 34
+[17-Dec-2014 13:06:40 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 34
+[17-Dec-2014 13:07:14 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 34
+[17-Dec-2014 13:07:19 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 34
+[17-Dec-2014 13:07:24 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 34
+[17-Dec-2014 13:08:53 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 34
+[17-Dec-2014 13:49:07 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/cart.update.content.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[17-Dec-2014 13:49:07 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/cart.update.content.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[17-Dec-2014 13:52:43 Europe/Kiev] PHP Fatal error:  Call to undefined method Cart::UpdateCart() in /home/florpeople/public_html/ajax/cart.update.content.php on line 5
+[18-Dec-2014 14:47:23 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 35
+[08-Jan-2015 17:02:44 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/news.json.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:02:44 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/news.json.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:02:50 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/news.json.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:02:50 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/news.json.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:07:45 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/news.json.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:07:45 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/news.json.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:09:28 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/news.json.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:09:28 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/news.json.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:14:02 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/news.json.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:14:02 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/news.json.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:14:22 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/news.json.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:14:22 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/news.json.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:14:38 Europe/Kiev] PHP Warning:  include(/home/florpeople/public_html/ajax/news.json.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 17:14:38 Europe/Kiev] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/florpeople/public_html/ajax/news.json.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/florpeople/public_html/bin/ajax.php on line 25
+[08-Jan-2015 21:24:22 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/adminside/model/cart.php on line 78
+[10-Jan-2015 00:00:48 Europe/Kiev] PHP Fatal error:  Using $this when not in object context in /home/florpeople/public_html/ajax/catalog.show.more.php on line 20
+[10-Jan-2015 00:08:45 Europe/Kiev] PHP Fatal error:  Using $this when not in object context in /home/florpeople/public_html/ajax/catalog.show.more.php on line 4
+[10-Jan-2015 00:42:44 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/skins/tpl/shop/fast.tpl on line 35
+[11-Jan-2015 14:54:44 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/adminside/model/cart.php on line 82
+[12-Jan-2015 13:29:25 Europe/Kiev] PHP Warning:  Invalid argument supplied for foreach() in /home/florpeople/public_html/adminside/model/cart.php on line 82
+[28-Jan-2015 12:28:34 Europe/Kiev] PHP Fatal error:  Using $this when not in object context in /home/florpeople/public_html/ajax/catalog.show.more.php on line 26

@@ -1,0 +1,1 @@
+<?php include FORM."{$route[2]}/{$route[3]}/form.view.tpl";

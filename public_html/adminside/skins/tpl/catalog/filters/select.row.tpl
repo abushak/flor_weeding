@@ -1,0 +1,1 @@
+<option <?php echo ($category_row["id"] == $params["parent_category"]) ? "selected='selected'" : ""; ?> value="<?php echo $category_row["id"]; ?>"><?php echo $category_row["title"]; ?></option>

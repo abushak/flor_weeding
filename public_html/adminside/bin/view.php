@@ -1,0 +1,1 @@
+<?php include ADM_ROOT."modules/{$route[2]}/view.php";

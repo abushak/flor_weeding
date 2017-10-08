@@ -1,0 +1,495 @@
+.product {
+  overflow: hidden; }
+  .product > div {
+    height: 660px;
+    margin: 0 auto;
+    max-width: 1366px;
+    position: relative; }
+    @media screen and (min-width: 1367px) {
+      .product > div:before, .product > div:after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 91.3px;
+        z-index: 3; }
+      .product > div:before {
+        left: 0;
+        background-color: rgba(255, 255, 255, 0);
+        background-image: -webkit-linear-gradient(right, rgba(255, 255, 255, 0), white);
+        background-image: linear-gradient(to left,rgba(255, 255, 255, 0), white); }
+      .product > div:after {
+        right: 0;
+        background-color: rgba(255, 255, 255, 0);
+        background-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0), white);
+        background-image: linear-gradient(to right,rgba(255, 255, 255, 0), white); } }
+    .product > div > div.bg {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      margin: 0 auto;
+      background: no-repeat 50% 50%;
+      background-size: cover;
+      opacity: 0;
+      -webkit-transition: opacity 250ms linear 250ms;
+      -moz-transition: opacity 250ms linear 250ms;
+      transition: opacity 250ms linear 250ms;
+      /*@media screen and (min-width: $maxwidth + 1px) {
+        &:before, &:after {
+          content: "";
+          background: no-repeat 50% 50%;
+          background-size: cover;
+          background-image: inherit;
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+        }
+        &:before {
+          left: -50px;
+          right: -50px;
+          @include filter(blur(100px));
+        }
+      }*/ }
+    .product > div > div.note {
+      position: absolute;
+      z-index: 1;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      text-align: center;
+      color: #ffffff;
+      background-color: transparent;
+      background-image: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.4));
+      background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.4));
+      padding: 4px 0;
+      text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+      font-size: 12px; }
+    .product > div div.wbody {
+      position: relative;
+      height: inherit; }
+    .product > div div.imgsnav {
+      z-index: 3;
+      width: 34px;
+      position: absolute;
+      left: 38px;
+      top: 50%;
+      padding: 0 15px;
+      background-color: rgba(255, 255, 255, 0.9);
+      opacity: .8;
+      -webkit-transition: 250ms;
+      -moz-transition: 250ms;
+      transition: 250ms;
+      -webkit-transform: translate(0, -50%);
+      -moz-transform: translate(0, -50%);
+      -ms-transform: translate(0, -50%);
+      -o-transform: translate(0, -50%);
+      transform: translate(0, -50%); }
+      .product > div div.imgsnav:hover {
+        opacity: 1; }
+      .product > div div.imgsnav > label {
+        display: block;
+        margin: 19px 0;
+        width: 34px;
+        height: 34px;
+        border: 1px solid #666666;
+        opacity: 1;
+        cursor: pointer;
+        -webkit-transition: 100ms linear;
+        -moz-transition: 100ms linear;
+        transition: 100ms linear;
+        background: 20% 50% no-repeat;
+        background-size: cover; }
+    .product > div > input {
+      display: none; }
+      .product > div > input:checked + .bg {
+        z-index: 1;
+        opacity: 1;
+        -webkit-transition-delay: 0;
+        -moz-transition-delay: 0;
+        transition-delay: 0; }
+      .product > div > input#gallery_1:checked ~ .wbody div.imgsnav label[for="gallery_1"] {
+        opacity: .5; }
+      .product > div > input#gallery_2:checked ~ .wbody div.imgsnav label[for="gallery_2"] {
+        opacity: .5; }
+      .product > div > input#gallery_3:checked ~ .wbody div.imgsnav label[for="gallery_3"] {
+        opacity: .5; }
+      .product > div > input#gallery_4:checked ~ .wbody div.imgsnav label[for="gallery_4"] {
+        opacity: .5; }
+      .product > div > input#gallery_5:checked ~ .wbody div.imgsnav label[for="gallery_5"] {
+        opacity: .5; }
+    .product > div div.panel {
+      width: 292px;
+      height: 524px;
+      position: absolute;
+      top: 68px;
+      right: 36px; }
+      .product > div div.panel > div > div.bottom {
+        margin-top: 10px;
+        height: 64px;
+        position: relative;
+        color: #e7e8ea;
+        font-size: 14px;
+        padding-left: 86px;
+        box-sizing: border-box;
+        padding-top: 15px;
+        background: rgba(131, 99, 115, 0.92) url("../image/free.png") 23px 50% no-repeat; }
+        .product > div div.panel > div > div.bottom:after {
+          content: '';
+          display: block;
+          background: url(../image/product/zub.png);
+          height: 10px;
+          left: 0;
+          right: 0;
+          top: -10px;
+          position: absolute; }
+      .product > div div.panel > div > div.top {
+        padding: 28px 25px;
+        box-sizing: border-box;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.92);
+        position: relative; }
+        .product > div div.panel > div > div.top h2 {
+          text-align: left;
+          font-size: 24px;
+          font-weight: normal;
+          line-height: 30px;
+          margin: 0 0 15px; }
+          .product > div div.panel > div > div.top h2 > a {
+            text-decoration: none;
+            border-bottom: 1px solid #ccc8d1;
+            color: inherit; }
+        .product > div div.panel > div > div.top .circle {
+          width: 87px;
+          height: 87px;
+          box-sizing: border-box;
+          border-radius: 50%;
+          margin: 60px auto 30px;
+          border: 2px solid #55bb68;
+          background: #f6f4f3 url("../image/product/galka.png") no-repeat 50% 50%; }
+        .product > div div.panel > div > div.top > a[rel="checkout"], .product > div div.panel > div > div.top > a[rel="checkout2"] {
+          display: block;
+          width: 219px;
+          height: 51px;
+          margin: 40px auto 12px;
+          border-radius: 2px;
+          text-align: center;
+          color: white;
+          line-height: 51px;
+          font-size: 20px;
+          text-decoration: none;
+          background-color: #00dd6f;
+          background-image: -webkit-linear-gradient(#00dd6f, #00bd65);
+          background-image: linear-gradient(#00dd6f, #00bd65); }
+          .product > div div.panel > div > div.top > a[rel="checkout"]:hover, .product > div div.panel > div > div.top > a[rel="checkout2"]:hover {
+            background-color: #36fa98;
+            background-image: -webkit-linear-gradient(#36fa98, #04bb66);
+            background-image: linear-gradient(#36fa98, #04bb66); }
+          .product > div div.panel > div > div.top > a[rel="checkout"].active, .product > div div.panel > div > div.top > a[rel="checkout2"].active {
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2); }
+        .product > div div.panel > div > div.top > a[rel="unbuy"], .product > div div.panel > div > div.top > a[rel="cancel"], .product > div div.panel > div > div.top > a[rel="close"] {
+          display: inline-block;
+          color: #7b6572;
+          font-size: 14px;
+          text-align: center;
+          margin: 0 auto;
+          text-decoration: none;
+          border-bottom: 1px dotted #7b6572;
+          cursor: pointer; }
+      .product > div div.panel > div.base > a {
+        z-index: 2;
+        position: absolute;
+        top: 0;
+        display: block;
+        width: 27px;
+        height: 27px;
+        right: 0;
+        background-color: #cbc8d1;
+        cursor: pointer; }
+        .product > div div.panel > div.base > a:after {
+          top: 8px;
+          left: 5px;
+          content: "";
+          width: 12px;
+          height: 12px;
+          box-sizing: border-box;
+          border: 1px solid;
+          border-color: #edecef #edecef transparent transparent;
+          position: absolute;
+          -webkit-transform: rotate(45deg);
+          -moz-transform: rotate(45deg);
+          -ms-transform: rotate(45deg);
+          -o-transform: rotate(45deg);
+          transform: rotate(45deg); }
+        .product > div div.panel > div.base > a[rel="prev"] {
+          right: 27px;
+          background-color: #d8d5dd; }
+          .product > div div.panel > div.base > a[rel="prev"]:after {
+            left: 10px;
+            -webkit-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+            border-color: transparent transparent #edecef #edecef; }
+        .product > div div.panel > div.base > a:hover:after {
+          border-width: 2px; }
+      .product > div div.panel > div.base > div.top > div.desc {
+        margin: -28px -25px 0;
+        height: 199px;
+        position: relative; }
+        .product > div div.panel > div.base > div.top > div.desc > div {
+          padding-top: 28px;
+          max-height: 170px;
+          min-height: 170px;
+          overflow: hidden;
+          position: relative;
+          z-index: 1;
+          border-bottom: 1px solid #e7e8e9;
+          -webkit-transition: 100ms linear 100ms;
+          -moz-transition: 100ms linear 100ms;
+          transition: 100ms linear 100ms;
+          background-color: #ffffff; }
+          .product > div div.panel > div.base > div.top > div.desc > div > h2 {
+            line-height: 100%;
+            padding: 0 25px; }
+          .product > div div.panel > div.base > div.top > div.desc > div > p {
+            margin: 0;
+            font-size: 14px;
+            hyphens: auto;
+            padding: 0 25px 20px; }
+          .product > div div.panel > div.base > div.top > div.desc > div:hover {
+            max-height: 400px;
+            -webkit-transition: 250ms linear 500ms;
+            -moz-transition: 250ms linear 500ms;
+            transition: 250ms linear 500ms; }
+          .product > div div.panel > div.base > div.top > div.desc > div:after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 30px;
+            background-color: rgba(255, 255, 255, 0);
+            background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8));
+            background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8)); }
+      .product > div div.panel > div.base > div.top > div.other > span {
+        margin-top: 8px;
+        color: #ff4271;
+        display: block;
+        font-size: 12px;
+        text-align: center; }
+      .product > div div.panel > div.base > div.top > div.other > ul {
+        padding: 0;
+        margin: 3px 15px 12px;
+        list-style: none;
+        display: block; }
+        .product > div div.panel > div.base > div.top > div.other > ul:after {
+          content: "";
+          clear: both;
+          display: block; }
+        .product > div div.panel > div.base > div.top > div.other > ul > li {
+          height: 30px;
+          float: left;
+          width: 33.33333%;
+          display: block;
+          border-bottom: 2px solid transparent;
+          background: url(../image/buket.png) 4px 100% no-repeat;
+          background-size: 23px 37px;
+          -webkit-transition: 100ms;
+          -moz-transition: 100ms;
+          transition: 100ms;
+          text-align: center;
+          padding-top: 5px; }
+          .product > div div.panel > div.base > div.top > div.other > ul > li > div {
+            color: #ffffff;
+            font-size: 14px;
+            padding: 12px;
+            background-color: rgba(131, 103, 118, 0.88);
+            position: absolute;
+            z-index: 1;
+            left: 18px;
+            right: 18px;
+            bottom: 230px;
+            text-align: left;
+            opacity: 0;
+            visibility: hidden;
+            box-shadow: 0 -1px 5px rgba(89, 89, 94, 0.4);
+            -webkit-transition: 100ms linear 100ms;
+            -moz-transition: 100ms linear 100ms;
+            transition: 100ms linear 100ms; }
+            .product > div div.panel > div.base > div.top > div.other > ul > li > div:after {
+              content: "";
+              position: absolute;
+              width: 0;
+              height: 0;
+              border: 11px solid transparent;
+              border-top: 8px solid rgba(131, 103, 118, 0.88);
+              left: 170px;
+              bottom: -19px; }
+          .product > div div.panel > div.base > div.top > div.other > ul > li:hover > div {
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: 200ms linear 500ms;
+            -moz-transition: 200ms linear 500ms;
+            transition: 200ms linear 500ms; }
+          .product > div div.panel > div.base > div.top > div.other > ul > li > a {
+            cursor: pointer;
+            font-size: 16px;
+            text-decoration: none;
+            padding: 0 2px;
+            display: inline-block;
+            margin: 0 auto;
+            border-bottom: 1px dotted #666666;
+            margin-top: 6px; }
+          .product > div div.panel > div.base > div.top > div.other > ul > li.m {
+            background-size: 21px 33px; }
+            .product > div div.panel > div.base > div.top > div.other > ul > li.m > a {
+              font-size: 14px; }
+              .product > div div.panel > div.base > div.top > div.other > ul > li.m > a ~ div:after {
+                left: 98px; }
+          .product > div div.panel > div.base > div.top > div.other > ul > li.s {
+            background-size: 19px 30px; }
+            .product > div div.panel > div.base > div.top > div.other > ul > li.s > a {
+              font-size: 12px; }
+              .product > div div.panel > div.base > div.top > div.other > ul > li.s > a ~ div:after {
+                left: 35px; }
+          .product > div div.panel > div.base > div.top > div.other > ul > li.active {
+            border-bottom-color: #f75675; }
+            .product > div div.panel > div.base > div.top > div.other > ul > li.active > a {
+              border-color: transparent; }
+      .product > div div.panel > div.base > div.top > div.other > .price {
+        float: left;
+        width: 156px;
+        height: 65px;
+        box-sizing: border-box;
+        overflow: hidden;
+        position: relative;
+        margin-left: -25px; }
+        .product > div div.panel > div.base > div.top > div.other > .price > div {
+          width: 147px;
+          height: 65px;
+          border: 1px solid #d0cdd5;
+          border-left: none;
+          border-right: none;
+          margin-right: 18px;
+          box-sizing: border-box;
+          position: relative;
+          font-size: 22px;
+          color: #ff1f59;
+          text-align: right;
+          padding-top: 15px;
+          line-height: 36px; }
+          .product > div div.panel > div.base > div.top > div.other > .price > div > span {
+            font-size: 36px; }
+          .product > div div.panel > div.base > div.top > div.other > .price > div:after, .product > div div.panel > div.base > div.top > div.other > .price > div:before {
+            content: "";
+            display: block;
+            position: absolute;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            box-sizing: border-box;
+            border: 1px solid #d0cdd5;
+            right: -18px; }
+          .product > div div.panel > div.base > div.top > div.other > .price > div:before {
+            top: -9px; }
+          .product > div div.panel > div.base > div.top > div.other > .price > div:after {
+            bottom: -9px; }
+        .product > div div.panel > div.base > div.top > div.other > .price:after {
+          content: "";
+          display: block;
+          position: absolute;
+          border-left: 1px solid #d0cdd5;
+          right: 0;
+          top: 9px;
+          bottom: 9px; }
+      .product > div div.panel > div.base > div.top > div.other > .prices {
+        margin-left: 156px;
+        height: 65px;
+        padding: 7px 0 8px; }
+        .product > div div.panel > div.base > div.top > div.other > .prices > span {
+          display: block;
+          font-size: 14px;
+          line-height: 25px;
+          color: #666666; }
+          .product > div div.panel > div.base > div.top > div.other > .prices > span.summary {
+            color: #8f7080; }
+      .product > div div.panel > div.base > div.top > div.other > .count {
+        float: left; }
+        .product > div div.panel > div.base > div.top > div.other > .count > span {
+          position: absolute;
+          left: 45px;
+          height: 26px;
+          line-height: 26px;
+          top: 10px; }
+      .product > div div.panel > div.base > div.top > div.other > [rel="buy"] {
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        margin-left: 87px;
+        height: 51px;
+        width: 156px;
+        text-align: center;
+        line-height: 51px;
+        color: white;
+        font-size: 20px;
+        text-decoration: none;
+        display: block;
+        border-radius: 3px;
+        background-color: #ff006d;
+        background-image: -webkit-linear-gradient(#ff006d, #ff4a2c);
+        background-image: linear-gradient(#ff006d, #ff4a2c); }
+        .product > div div.panel > div.base > div.top > div.other > [rel="buy"]:hover, .product > div div.panel > div.base > div.top > div.other > [rel="buy"]:active {
+          background-color: #00dd6f;
+          background-image: -webkit-linear-gradient(#00dd6f, #00bc65);
+          background-image: linear-gradient(#00dd6f, #00bc65); }
+        .product > div div.panel > div.base > div.top > div.other > [rel="buy"]:active {
+          background-color: #00dd6f;
+          background-image: -webkit-linear-gradient(#00dd6f, #00bc65);
+          background-image: linear-gradient(#00dd6f, #00bc65);
+          box-shadow: inset 0 2px 5px rgba(22, 65, 45, 0.34); }
+      .product > div div.panel > div.base > div.top > div.other > [rel="order"] {
+        color: #ff1f59;
+        border-bottom: 1px dotted #ff1f59;
+        display: inline-block;
+        text-decoration: none;
+        margin: 15px 0 0 99px;
+        font-size: 14px;
+        cursor: pointer; }
+      .product > div div.panel > div.incart > div.top, .product > div div.panel > div.done > div.top {
+        background-color: rgba(255, 255, 255, 0.92);
+        text-align: center; }
+        .product > div div.panel > div.incart > div.top > p, .product > div div.panel > div.done > div.top > p {
+          text-align: center;
+          color: #54b967;
+          font-size: 20px;
+          margin: 0; }
+      .product > div div.panel > div.done > div.top > span {
+        margin: 35px 0 60px;
+        display: block;
+        text-align: center;
+        font-size: 15px; }
+      .product > div div.panel > div.form > div.top {
+        text-align: center; }
+        .product > div div.panel > div.form > div.top > input, .product > div div.panel > div.form > div.top > textarea {
+          box-sizing: border-box;
+          border: 1px solid #ccc8d1;
+          box-shadow: inset 0 2px 2px rgba(46, 9, 29, 0.18);
+          width: 238px;
+          height: 35px;
+          border-radius: 3px;
+          margin-bottom: 25px;
+          padding: 3px 10px; }
+        .product > div div.panel > div.form > div.top > textarea {
+          height: 101px;
+          resize: none; }
+        .product > div div.panel > div.form > div.top a[rel="checkout2"] {
+          margin: 0 auto 25px; }
+
+/*# sourceMappingURL=product.css.map */

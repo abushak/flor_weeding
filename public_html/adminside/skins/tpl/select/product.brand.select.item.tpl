@@ -1,0 +1,1 @@
+<option <?php echo ($pb_row['brand_id'] == $res['id']) ? 'selected="selected"' : false; ?> value="<?php echo $res['id']; ?>"><?php echo $res['title']; ?></option>

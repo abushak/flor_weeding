@@ -1,0 +1,1 @@
+<option <?php echo ($p_row["id"] == $params["parent"]) ? "selected='selected'" : ""; ?> value="<?php echo $p_row["id"]; ?>"><?php echo $p_row["title"]; ?></option>

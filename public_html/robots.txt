@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /images/
+Disallow: /ua/shop/test
+#
+Sitemap: http://florpeople.com/sitemap.xml
+#

@@ -1,0 +1,98 @@
+.about {
+  padding-top: 67px;
+  position: relative; }
+  .about:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 353px;
+    background: url(../image/flowers.jpg) 50% 0;
+    opacity: .5;
+    z-index: -1; }
+  .about > div.content {
+    padding: 0 95px 20px; }
+  .about > div.gallery {
+    width: 812px;
+    height: 482px;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 67px; }
+    .about > div.gallery > .image {
+      position: absolute;
+      background: 50% 50% no-repeat;
+      background-size: cover;
+      width: 100%;
+      height: 483px;
+      opacity: 0;
+      visibility: hidden;
+      -webkit-transition: opacity 0ms linear 250ms, visibility 0ms linear 250ms;
+      -moz-transition: opacity 0ms linear 250ms, visibility 0ms linear 250ms;
+      transition: opacity 0ms linear 250ms, visibility 0ms linear 250ms; }
+      .about > div.gallery > .image > label {
+        background: url(../image/about/arrow.png) no-repeat 0 0;
+        display: block;
+        width: 21px;
+        height: 49px;
+        position: absolute;
+        top: 262px;
+        opacity: .7;
+        cursor: pointer;
+        -webkit-transition: 100ms;
+        -moz-transition: 100ms;
+        transition: 100ms; }
+        .about > div.gallery > .image > label[rel="next"] {
+          right: -50px; }
+        .about > div.gallery > .image > label[rel="prev"] {
+          left: -50px;
+          -webkit-transform: rotateY(180deg);
+          -moz-transform: rotateY(180deg);
+          -ms-transform: rotateY(180deg);
+          -o-transform: rotateY(180deg);
+          transform: rotateY(180deg); }
+        .about > div.gallery > .image > label:hover {
+          opacity: 1; }
+    .about > div.gallery > .labels {
+      z-index: 2;
+      position: absolute;
+      bottom: -25px;
+      text-align: center;
+      left: 50%;
+      -webkit-transform: translate(-50%, 0);
+      -moz-transform: translate(-50%, 0);
+      -ms-transform: translate(-50%, 0);
+      -o-transform: translate(-50%, 0);
+      transform: translate(-50%, 0); }
+      .about > div.gallery > .labels > label {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin: 0 5px;
+        cursor: pointer;
+        border: 1px solid #d1c2cc;
+        display: inline-block; }
+    .about > div.gallery > input {
+      display: none; }
+      .about > div.gallery > input:checked + .image {
+        z-index: 2;
+        opacity: 1;
+        visibility: visible;
+        -webkit-transition: opacity 250ms linear, visibility 250ms linear;
+        -moz-transition: opacity 250ms linear, visibility 250ms linear;
+        transition: opacity 250ms linear, visibility 250ms linear; }
+      .about > div.gallery > input#image_1:checked ~ div.labels > label[for="image_1"] {
+        background-color: #f0f0f0; }
+      .about > div.gallery > input#image_2:checked ~ div.labels > label[for="image_2"] {
+        background-color: #f0f0f0; }
+      .about > div.gallery > input#image_3:checked ~ div.labels > label[for="image_3"] {
+        background-color: #f0f0f0; }
+      .about > div.gallery > input#image_4:checked ~ div.labels > label[for="image_4"] {
+        background-color: #f0f0f0; }
+      .about > div.gallery > input#image_5:checked ~ div.labels > label[for="image_5"] {
+        background-color: #f0f0f0; }
+    @media screen and (min-width: 1200px) {
+      .about > div.gallery {
+        width: 1010px; } }
+
+/*# sourceMappingURL=about.css.map */

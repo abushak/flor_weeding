@@ -1,0 +1,50 @@
+div.gifts {
+  height: 342px;
+  position: relative; }
+  div.gifts > .img {
+    position: absolute;
+    top: 0;
+    right: 50%;
+    bottom: 0;
+    width: 50%;
+    background: url(../image/giftsbg.jpg) 100% 50% no-repeat;
+    background-size: cover; }
+  div.gifts > div {
+    position: relative; }
+    div.gifts > div > .left {
+      float: left;
+      width: 50%;
+      height: 100px; }
+      div.gifts > div > .left > a {
+        width: 160px;
+        display: block;
+        background: url(../image/gift.png) 50% 0 no-repeat;
+        padding-top: 135px;
+        font-size: 24px;
+        text-align: center;
+        color: #f2f2f2;
+        margin: 100px auto 0;
+        text-decoration: none; }
+        div.gifts > div > .left > a > span {
+          border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+    div.gifts > div > .right {
+      margin-left: 50%;
+      width: 50%;
+      height: 100px; }
+      div.gifts > div > .right > div {
+        padding: 20px 30px 10px 0; }
+        div.gifts > div > .right > div > img {
+          margin-top: 20px;
+          margin-left: 70px;
+          float: left; }
+        div.gifts > div > .right > div > h2 {
+          font-size: 17px;
+          color: #3f4045;
+          margin: 0 0 10px 156px;
+          font-weight: normal; }
+        div.gifts > div > .right > div > p {
+          margin-left: 156px;
+          font-size: 14px;
+          color: #848484; }
+
+/*# sourceMappingURL=gifts.css.map */

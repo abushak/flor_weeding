@@ -1,0 +1,68 @@
+.done {
+  margin-top: 100px; }
+  .done .img {
+    width: 87px;
+    height: 87px;
+    border: 2px solid #00bc65;
+    border-radius: 50%;
+    background: url(../image/product/galka.png) 50% 50% no-repeat;
+    margin: 0 auto; }
+  .done h3 {
+    color: #00bc65;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center; }
+  .done p {
+    font-size: 16px;
+    color: #3e3f44;
+    text-align: center; }
+    .done p a {
+      color: #7c6574;
+      margin: 10px 0;
+      display: inline-block; }
+  .done > div {
+    height: 50px;
+    margin: 0 auto 100px;
+    width: 540px; }
+    .done > div > div {
+      float: left; }
+      .done > div > div.o {
+        font-size: 16px;
+        color: #3e3f44;
+        line-height: 25px;
+        text-align: right; }
+      .done > div > div.p {
+        font-size: 22px;
+        color: #7f6977;
+        line-height: 50px;
+        padding: 0 20px; }
+        .done > div > div.p span {
+          font-size: 39px; }
+      .done > div > div.pr, .done > div > div.d {
+        width: 180px;
+        border-radius: 3px;
+        background-color: #e7e1e3;
+        background-image: -webkit-linear-gradient(#e7e1e3, #bcb5b3);
+        background-image: linear-gradient(#e7e1e3, #bcb5b3);
+        margin-right: 20px; }
+        .done > div > div.pr:hover, .done > div > div.d:hover {
+          background-color: #e3dadd;
+          background-image: -webkit-linear-gradient(#e3dadd, #a89f9d);
+          background-image: linear-gradient(#e3dadd, #a89f9d); }
+        .done > div > div.pr a, .done > div > div.d a {
+          cursor: pointer;
+          display: block;
+          height: 50px;
+          line-height: 50px;
+          padding-left: 45px;
+          font-size: 20px;
+          color: white;
+          text-decoration: none;
+          background: url(../image/print.png) 16px 50% no-repeat; }
+      .done > div > div.d {
+        width: 55px;
+        margin-right: 0; }
+        .done > div > div.d a {
+          background: url(../image/down.png) 50% 50% no-repeat; }
+
+/*# sourceMappingURL=done.css.map */
